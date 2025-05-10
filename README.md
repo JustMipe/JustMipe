@@ -40,14 +40,6 @@
 
 ---
 
-### 📈 Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustMipe&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
----
-
 ### 📫 Contact:
 
 <p>
