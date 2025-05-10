@@ -2,8 +2,8 @@
 
 <p align="center">
   🧠 I’ve been passionately learning <strong>Rust</strong> since <strong>April 8, 2025</strong><br>
-  🏃‍♂️ I occasionally box, jogging or work out in other ways...<br>
-  🎨 I'm creative and even though I can't sing or draw, <br> I’ve found that I can bring my ideas to life through code.
+  🏃‍♂️ I enjoy boxing, jogging, and working out to stay sharp<br>
+  🎨 I’m also creative: can’t sing, can’t draw, but I’ve found that I can build ideas into life through code.
 </p>
 
 ---
@@ -29,13 +29,13 @@
 
 ---
 
-### 🔗 Important links
+### 🔗 &nbsp;Useful Rust Links
 
 <p>
-  <a href="https://www.scs.stanford.edu/~zyedidia/docs/rust/rust_book.pdf">Rust Book</a> |
-  <a href="https://doc.rust-lang.org/stable/book/ch00-00-introduction.html">Documentation</a> |
-  <a href="https://doc.rust-lang.org/std/all.html#primitives">Crate Items</a> |
-  <a href="https://doc.rust-lang.org/error_codes/error-index.html">Error Codes Index</a>
+  <a href="https://www.scs.stanford.edu/~zyedidia/docs/rust/rust_book.pdf">📘 Rust Book (PDF)</a> |
+  <a href="https://doc.rust-lang.org/stable/book/">📚 Official Book</a> |
+  <a href="https://doc.rust-lang.org/std/all.html#primitives">🧱 Crate Items</a> |
+  <a href="https://doc.rust-lang.org/error_codes/error-index.html">⚠️ Error Codes Index</a>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 
 ---
 
-### 📫 Contact me:
+### 📫 Contact:
 
 <p>
   <a href="https://discord.com/users/2023mipe" target="_blank">
