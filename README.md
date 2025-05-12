@@ -8,7 +8,7 @@
 
 ---
 
-### 🧰 Technology I use:
+### Technology I use:
 
 <p>
   <img src="https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust&logoColor=white">
@@ -21,7 +21,7 @@
 
 ---
 
-### 🧭 My journey ...
+### My journey ...
 
 > 📖 I’ve never been the “academic type,” and I’ve been doing manual work since I was 18 — but technology has fascinated me since I was a child. <br>
 > 🧱 Today, I’m building my path in Rust slowly, brick by brick — with patience, determination, and passion. <br>
@@ -29,7 +29,7 @@
 
 ---
 
-### 🔗 &nbsp;Useful Rust Links
+### &nbsp;Useful Rust Links
 
 <p>
   <a href="https://www.scs.stanford.edu/~zyedidia/docs/rust/rust_book.pdf">📘 Rust Book (PDF)</a> |
@@ -40,7 +40,7 @@
 
 ---
 
-### 📫 Contact:
+### Contact:
 
 <p>
   <a href="https://discord.com/users/2023mipe" target="_blank">
