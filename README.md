@@ -23,9 +23,9 @@
 
 ### My journey ...
 
-> 📖 I’ve never been the “academic type,” and I’ve been doing manual work since I was 18 — but technology has fascinated me since I was a child. <br>
+> 📖 I’ve never been the “academic type,” — but technology has fascinated me since I was a child. <br>
 > 🧱 Today, I’m building my path in Rust slowly, brick by brick — with patience, determination, and passion. <br>
-> 💖 I don’t learn Rust because I have ambitions to become a professional developer, but because I truly enjoy it. With plenty of free time, I’m finally fulfilling my childhood dream: to understand programming.
+> 💖 I don’t learn Rust because I have ambitions to become a professional developer, but because I truly enjoy it.<br> With plenty of free time, I’m finally fulfilling my childhood dream: to understand programming.
 
 ---
 
