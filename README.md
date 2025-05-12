@@ -1,4 +1,4 @@
-<h1 align="center">Hello world! 👋</h1>
+<h1 align="center">Hello world!</h1>
 
 <p align="center">
   🧠 I’ve been passionately learning <strong>Rust</strong> since <strong>April 8, 2025</strong><br>
