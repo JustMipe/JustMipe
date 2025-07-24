@@ -17,8 +17,6 @@
   <img src="https://img.shields.io/badge/-ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/-Copilot-1f6feb?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/-Cursor-A78BFA?style=for-the-badge&logo=cursor&logoColor=black">
-  <img src="https://img.shields.io/badge/-VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/-Sublime Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white">
   <img src="https://img.shields.io/badge/-Obsidian-7B68EE?style=for-the-badge">
 
 </p>
