@@ -52,7 +52,7 @@
 
 ---
 
-<p align="center">- <em>"Courage is not the absence of fear, but the determination to move forward despite it."</em></p>
+<p align="center">- <em>“Courage isn’t being fearless — it’s choosing to go on, even when you’re afraid.”</em></p>
 
 
 <!--
